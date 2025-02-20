@@ -55,9 +55,7 @@ This script performs real-time face detection and recognition using the MTCNN fa
 ## Future Enhancements
 - **Real-time Performance Optimization**: Explore techniques to speed up the recognition process, especially for a large number of known faces (e.g., k-d trees).
 - **GUI**: Develop a graphical user interface for easier interaction and improved user experience.
-- **Face Database Management**: Implement a more robust way to manage the database of known faces (e.g., using a database or structured file format).
-- **Liveness Detection**: Add liveness detection to prevent spoofing attacks using photos or videos.
-- **Face Alignment**: Incorporate face alignment techniques to improve the accuracy of FaceNet.
+
 
 ## Contributions
 Contributions are welcome! Please submit pull requests or open issues for bug reports or feature requests.
